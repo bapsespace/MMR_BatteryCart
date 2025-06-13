@@ -1,5 +1,9 @@
 # MMR_BatteryCart
 
+## ToDo
+[ ] Programmare Tutto
+
+
 ## Connections  
 - **CAN BMS Zoom**  
 - **AC/DC Charge Zexion Zoom**  
